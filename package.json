@@ -4,7 +4,7 @@
   "description": "A browser made in electron, since I don't know what else to do.",
   "main": "main.js",
   "dependencies": {
-    "electron": "^4.0.7",
+    "electron": "^18.3.7",
     "url-exists": "^1.0.3"
   },
   "devDependencies": {},
